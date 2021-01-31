@@ -1,33 +1,73 @@
 {
-  "bg": "https://wallpapercave.com/wp/wp4937208.jpg",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://www.10wallpaper.com/wallpaper/2560x1440/1811/Universe_Starry_Sky_Space_HD_Nebula_2560x1440.jpg",
+  "title": "Quiz sobre o Universo",
+  "description": "Teste os seus conhecimentos sobre o Universo",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2020/05/11/112202723jupapr3color-jd-170304.png",
+      "title": "Quantas luas tem Júpiter?",
+      "description": "",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "81",
+        "68",
+        "79",
+        "87"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://pa1.narvii.com/7076/7e633ba5ab31245948be87dc1f28e6adaff9fb6cr1-480-270_hq.gif",
+      "title": "O que são estrelas de nêutrons?",
+      "description": "",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Estrelas pequenas e com densidade gigantesca",
+         "Estrelas enormes, na ordem de 2000 massas solares",
+         "Estrelas que fundem hélio em seu núcleo",
+         "Não se trata de estrelas, mas de planetas tão grandes que podem ser confundidos com uma estrela"
       ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img5bee9992ea1fa5.93394973.jpg?lastEdited=1542363551",
+      "title": "Qual o menor planeta do sistema solar?",
+      "description": "",
+      "answer": 3,
+      "alternatives": [
+         "Marte",
+         "Plutão",
+         "Ganimedes",
+         "Mercúrio"
+      ] 
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/proxy/35sms-bT5XFWA4Ce44o-OW6WRoe81pFbEMvNGFkaP3khjJdsDUpnYu0snRbXTIvBrQEEHtJzKO04r7WKRFnievQFCUJgxxhfZhMc-jZrOaRQaoUQpLl80gZ-Gea9hkNOyxLjeOOUHbU17hTJeDDQ6KYB2f9tIRm0bv1UAkDP",
+      "title": "A que nebulosa se refere a imagem?",
+      "description":"",
+      "answer":1,
+      "alternatives":[
+        "Nebulosa do Caranguejo",
+        "Nebulosa do Cone",
+        "Nebulosa da Bolha",
+        "Nebulosa Califórnia"
+      ]
+    },
+    {
+      "image": "https://hypescience.com/wp-content/uploads/2014/08/galaxia-girando-1.gif",
+      "title": "Qual foi o primeiro objeto humano a sair do sistema solar?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+         "Sonda Voyager 1",
+         "Sonda Voyager 2",
+         "Foguete Apollo 11",
+         "Foguete Exit"
+      ] 
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-base.alura-challenges.vercel.app/",
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
