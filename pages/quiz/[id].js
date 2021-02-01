@@ -28,6 +28,6 @@ export async function getServerSideProps(context){
               dbExterno,
           },
       }
-    }catch(err){throw new Error(err)}
+    }catch(err){console.log(err)}
     
 }
